@@ -11,8 +11,8 @@ import { Toaster } from "@/components/ui/toaster"
 
 const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
-  title: "Zoom",
-  description: "Zoom APP with Next.js and TypeScript",
+  title: "Magnetar Zoomy",
+  description: "Magnetar Zoomy",
   keywords: "zoom, clone, nextjs, typescript",
   icons: {
     icon: '/icons/logo.svg',
